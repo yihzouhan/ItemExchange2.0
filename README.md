@@ -31,3 +31,4 @@
 
 ![image](https://user-images.githubusercontent.com/114299322/209491622-66418939-0516-4935-823d-9a2cbc97e61b.png)
 
+因个人原因，管理员部分的功能尚未完全实现。
